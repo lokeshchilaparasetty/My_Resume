@@ -1,5 +1,6 @@
 # Build_Resume
 Project Title: Personal Resume Website
+
 Description: This project is a personal resume website built using HTML and CSS. It provides a digital, interactive version of my resume, showcasing my skills, experience, education, and portfolio. The site is designed with a clean, modern aesthetic and responsive layout to ensure it looks great on devices of all sizes.
 
 # Key Features:
