@@ -26,4 +26,4 @@ FontAwesome: Icons used for social media links and contact details.
 Google Fonts: Custom fonts used to enhance the visual appeal of the text.
 
 # Live Demo
-https://lokeshchilaparasetty.github.io/Build_Resume/
+https://lokeshchilaparasetty.github.io/My_Resume/
